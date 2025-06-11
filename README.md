@@ -1,5 +1,8 @@
 # LEDE-homework
 
-This is a repository that will include all homework from the LEDE program, in Columbia Journalism School. I am Estefanía Celi, an ecuadorian investigative journalist studying this program in summer 2025.
+This is a repository for the homework we did on the LEDE Program at Columbia J School, for using APIs. 
 
-In this repository you will find homework on Python, data analysis, APIs, scraping and a lot of other things.
+It includes three Jupyter notebooks:
+- Part 1 uses the Google API for location and then Geocoder library to get latitude and longitude for certain addresses.
+- Part 2 uses an API for weather, with current weather and forecasts. 
+- Part 4 uses the Spotify API and (Spotipy library)[https://spotipy.readthedocs.io/en/2.25.1/] to find info on a certain playlist.
